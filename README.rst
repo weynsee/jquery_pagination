@@ -6,6 +6,7 @@ Description
 When you have a a large list of items (e.g. search results or news articles), 
 you can display them grouped in pages and present navigational elements to move 
 from one page to another. This plugin creates these navigational elements. 
+This is a fork of the jQuery Pagination Plugin that adds markup designed for use with Twitter Bootstrap.
 
 Usage
 -----
